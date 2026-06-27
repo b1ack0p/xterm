@@ -1,10 +1,34 @@
-! Default XTerm configuration without TrueType font and custom colors.
+! XTerm Nintendo Game Boy (DMG-01) monochrome LCD configuration.
+
+! Game Boy DMG 4-shade LCD palette:
+! Lightest: #9bbc0f
+! Light:    #8bac0f
+! Dark:     #306230
+! Darkest:  #0f380f
+
+! Color:
+xterm*vt100.background:  #0f380f
+xterm*vt100.foreground:  #9bbc0f
+xterm*vt100.cursorColor: #9bbc0f
+xterm*vt100.color0:      #0f380f
+xterm*vt100.color1:      #1e481a
+xterm*vt100.color2:      #2d5824
+xterm*vt100.color3:      #4a722a
+xterm*vt100.color4:      #396625
+xterm*vt100.color5:      #5a8420
+xterm*vt100.color6:      #6f981a
+xterm*vt100.color7:      #8bac0f
+xterm*vt100.color8:      #306230
+xterm*vt100.color9:      #3c6a28
+xterm*vt100.color10:     #58851a
+xterm*vt100.color11:     #7ba512
+xterm*vt100.color12:     #4a7622
+xterm*vt100.color13:     #6f981a
+xterm*vt100.color14:     #8bac0f
+xterm*vt100.color15:     #9bbc0f
 
 ! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
-xterm.termName: xterm-256color
-
-! Reverse colors > on: white on black, off: black on white
-xterm*vt100.reverseVideo: off
+xterm.termName: xterm-16color
 
 ! Ensure using UTF-8
 ! xterm.vt100.locale: true

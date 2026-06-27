@@ -1,41 +1,41 @@
 ! XTerm C64 - 16color configuration.
 
 ! Colors:
-xterm*vt100.foreground:  #a5a5ff
-xterm*vt100.background:  #4242e7
-xterm*vt100.cursorColor: #a5a5ff
+xterm*vt100.foreground:  #706deb
+xterm*vt100.background:  #2e2c9b
+xterm*vt100.cursorColor: #706deb
 
 ! Black
 xterm*vt100.color0:      #000000
-xterm*vt100.color8:      #a1683c
+xterm*vt100.color8:      #8e5029
 
 ! Red
 xterm*vt100.color1:      #ffffff
-xterm*vt100.color9:      #6d5412
+xterm*vt100.color9:      #553800
 
 ! Green
-xterm*vt100.color2:      #9f4e44
-xterm*vt100.color10:     #cb7e75
+xterm*vt100.color2:      #813338
+xterm*vt100.color10:     #c46c71
 
 ! Yellow
-xterm*vt100.color3:      #6abfc6
-xterm*vt100.color11:     #626262
+xterm*vt100.color3:      #75cec8
+xterm*vt100.color11:     #4a4a4a
 
 ! Blue
-xterm*vt100.color4:      #a057a3
-xterm*vt100.color12:     #898989
+xterm*vt100.color4:      #8e3c97
+xterm*vt100.color12:     #7b7b7b
 
 ! Magenta
-xterm*vt100.color5:      #5cab5e
-xterm*vt100.color13:     #9ae29b
+xterm*vt100.color5:      #56ac4d
+xterm*vt100.color13:     #a9ff9f
 
 ! Cyan
-xterm*vt100.color6:      #50459b
-xterm*vt100.color14:     #887ecb
+xterm*vt100.color6:      #2e2c9b
+xterm*vt100.color14:     #706deb
 
 ! White
-xterm*vt100.color7:      #c9d487
-xterm*vt100.color15:     #adadad
+xterm*vt100.color7:      #edf171
+xterm*vt100.color15:     #b2b2b2
 
 ! Bold, Italic, Underline
 *.colorBD:     #a5a2a2
@@ -49,7 +49,7 @@ xterm.termName: xterm-16color
 ! xterm.vt100.locale: true
 
 ! Force UTF-8
-xterm.vt100.locate: false
+xterm.vt100.locale: false
 xterm.vt100.utf8: true
 
 ! Set default xterm window size:
@@ -75,7 +75,7 @@ xterm*vt100.leftScrollBar: false
 xterm.vt100.scrollbar.width: 15
 
 ! Scrollbacks:
-xterm*vt100.savelines: 16384
+xterm*vt100.saveLines: 16384
 
 ! Stop output to terminal from jumping down to bottom of scroll again:
 xterm*vt100.scrollTtyOutput: false
@@ -112,7 +112,7 @@ xterm.vt100.backarrowKey: false
 xterm.ttyModes: erase ^?
 
 ! Every shell is a login shell by default (for inclusion of all necessary environment variables):
-xterm*vt100.loginshell: true
+xterm*vt100.loginShell: true
 
 ! Specifies the number of pixels between the characters and the window border. The default is 2.
 xterm*vt100.internalBorder: 2

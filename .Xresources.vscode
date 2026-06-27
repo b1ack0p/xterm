@@ -2,23 +2,23 @@
 
 ! Colors:
 xterm*vt100.background: #1e1e1e
-xterm*vt100.foreground: #d4d4d4
+xterm*vt100.foreground: #cccccc
 xterm*vt100.color0: #000000
-xterm*vt100.color1: #c50f1f
-xterm*vt100.color2: #16825d
-xterm*vt100.color3: #d7ba7d
-xterm*vt100.color4: #007acc
-xterm*vt100.color5: #68217a
-xterm*vt100.color6: #98c7e1
-xterm*vt100.color7: #d4d4d4
-xterm*vt100.color8: #858585
-xterm*vt100.color9: #da6771
-xterm*vt100.color10: #6a9953
-xterm*vt100.color11: #ffd700
-xterm*vt100.color12: #04395e
-xterm*vt100.color13: #d470d6
-xterm*vt100.color14: #9cdcfe
-xterm*vt100.color15: #ffffff
+xterm*vt100.color1: #cd3131
+xterm*vt100.color2: #0dbc79
+xterm*vt100.color3: #e5e510
+xterm*vt100.color4: #2472c8
+xterm*vt100.color5: #bc3fbc
+xterm*vt100.color6: #11a8cd
+xterm*vt100.color7: #e5e5e5
+xterm*vt100.color8: #666666
+xterm*vt100.color9: #f14c4c
+xterm*vt100.color10: #23d18b
+xterm*vt100.color11: #f5f543
+xterm*vt100.color12: #3b8eea
+xterm*vt100.color13: #d670d6
+xterm*vt100.color14: #29b8db
+xterm*vt100.color15: #e5e5e5
 
 ! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
 xterm.termName: xterm-256color
@@ -27,7 +27,7 @@ xterm.termName: xterm-256color
 ! xterm.vt100.locale: true
 
 ! Force UTF-8
-xterm.vt100.locate: false
+xterm.vt100.locale: false
 xterm.vt100.utf8: true
 
 ! Set default xterm window size:
@@ -53,7 +53,7 @@ xterm*vt100.leftScrollBar: false
 xterm.vt100.scrollbar.width: 15
 
 ! Scrollbacks:
-xterm*vt100.savelines: 16384
+xterm*vt100.saveLines: 16384
 
 ! Stop output to terminal from jumping down to bottom of scroll again:
 xterm*vt100.scrollTtyOutput: false
@@ -90,7 +90,7 @@ xterm.vt100.backarrowKey: false
 xterm.ttyModes: erase ^?
 
 ! Every shell is a login shell by default (for inclusion of all necessary environment variables):
-xterm*vt100.loginshell: true
+xterm*vt100.loginShell: true
 
 ! Specifies the number of pixels between the characters and the window border. The default is 2.
 xterm*vt100.internalBorder: 2
