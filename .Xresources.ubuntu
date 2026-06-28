@@ -1,7 +1,7 @@
 ! XTerm configuration with Ubuntu purple terminal color and font.
 
 ! Colors:
-xterm*vt100.background: #380c2a
+xterm*vt100.background: #300a24
 xterm*vt100.foreground: #ffffff
 xterm*vt100.color0: #171421
 xterm*vt100.color1: #c01c28
@@ -13,7 +13,7 @@ xterm*vt100.color6: #2aa1b3
 xterm*vt100.color7: #d0cfcc
 xterm*vt100.color8: #5e5c64
 xterm*vt100.color9: #f66151
-xterm*vt100.color10: #33da7a
+xterm*vt100.color10: #33d17a
 xterm*vt100.color11: #e9ad0c
 xterm*vt100.color12: #2a7bde
 xterm*vt100.color13: #c061cb
