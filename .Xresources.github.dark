@@ -1,49 +1,28 @@
-! XTerm Github colors configuration.
+! XTerm GitHub Dark Default theme (VS Code GitHub theme / Primer brand colors).
 
-! Colors:
-xterm*vt100.foreground:  #1f2328
-xterm*vt100.background:  #ffffff
-xterm*vt100.cursorColor: #1f2328
-
-! Black
-xterm*vt100.color0:      #24292f
-xterm*vt100.color8:      #57606a
-
-! Red
-xterm*vt100.color1:      #cf222e
-xterm*vt100.color9:      #a40e26
-
-! Green
-xterm*vt100.color2:      #116329
-xterm*vt100.color10:     #1a7f37
-
-! Yellow
-xterm*vt100.color3:      #4d2d00
-xterm*vt100.color11:     #633c01
-
-! Blue
-xterm*vt100.color4:      #0969da
-xterm*vt100.color12:     #218bff
-
-! Magenta
-xterm*vt100.color5:      #8250df
-xterm*vt100.color13:     #a475f9
-
-! Cyan
-xterm*vt100.color6:      #1b7c83
-xterm*vt100.color14:     #3192aa
-
-! White
-xterm*vt100.color7:      #6e7781
-xterm*vt100.color15:     #8c959f
-
-! Bold, Italic, Underline
-*.colorBD:     #c95500
-!*.colorIT:
-!*.colorUL:
+! Color:
+xterm*vt100.background:  #0d1117
+xterm*vt100.foreground:  #e6edf3
+xterm*vt100.cursorColor: #e6edf3
+xterm*vt100.color0:      #484f58
+xterm*vt100.color1:      #ff7b72
+xterm*vt100.color2:      #3fb950
+xterm*vt100.color3:      #d29922
+xterm*vt100.color4:      #58a6ff
+xterm*vt100.color5:      #bc8cff
+xterm*vt100.color6:      #39c5cf
+xterm*vt100.color7:      #b1bac4
+xterm*vt100.color8:      #6e7681
+xterm*vt100.color9:      #ffa198
+xterm*vt100.color10:     #56d364
+xterm*vt100.color11:     #e3b341
+xterm*vt100.color12:     #79c0ff
+xterm*vt100.color13:     #d2a8ff
+xterm*vt100.color14:     #56d4dd
+xterm*vt100.color15:     #ffffff
 
 ! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
-xterm.termName: xterm-16color
+xterm.termName: xterm-256color
 
 ! Ensure using UTF-8
 ! xterm.vt100.locale: true
