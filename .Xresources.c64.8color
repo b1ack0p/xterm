@@ -22,8 +22,8 @@ xterm*vt100.color3:      #edf171
 xterm*vt100.color11:     #edf171
 
 ! Blue
-xterm*vt100.color4:      #2e2c9b
-xterm*vt100.color12:     #2e2c9b
+xterm*vt100.color4:      #706deb
+xterm*vt100.color12:     #706deb
 
 ! Magenta
 xterm*vt100.color5:      #8e3c97

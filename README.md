@@ -17,9 +17,9 @@ VSCode default font: Droid Sans Mono
 
 #Screenshots:
 
-default (256color):
+xterm.default (256color):
 
-![default](https://user-images.githubusercontent.com/72235930/217951637-c75feb1b-5c29-40e4-a06e-b80644427159.png)
+![xterm.default](https://user-images.githubusercontent.com/72235930/217951637-c75feb1b-5c29-40e4-a06e-b80644427159.png)
 
 
 Ubuntu (256color):

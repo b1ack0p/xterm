@@ -30,7 +30,7 @@ xterm*vt100.color5:      #56ac4d
 xterm*vt100.color13:     #a9ff9f
 
 ! Cyan
-xterm*vt100.color6:      #2e2c9b
+xterm*vt100.color6:      #706deb
 xterm*vt100.color14:     #706deb
 
 ! White

@@ -181,7 +181,7 @@ td.c648Color0 {background: #000000;color: #fff;}
 td.c648Color1 {background: #813338;color: #fff;}
 td.c648Color2 {background: #56ac4d;color: #fff;}
 td.c648Color3 {background: #edf171;color: #000;}
-td.c648Color4 {background: #2e2c9b;color: #fff;}
+td.c648Color4 {background: #706deb;color: #fff;}
 td.c648Color5 {background: #8e3c97;color: #fff;}
 td.c648Color6 {background: #75cec8;color: #000;}
 td.c648Color7 {background: #ffffff;color: #000;}
@@ -189,7 +189,7 @@ td.c648Color8 {background: #000000;color: #fff;}
 td.c648Color9 {background: #813338;color: #fff;}
 td.c648Color10 {background: #56ac4d;color: #fff;}
 td.c648Color11 {background: #edf171;color: #000;}
-td.c648Color12 {background: #2e2c9b;color: #fff;}
+td.c648Color12 {background: #706deb;color: #fff;}
 td.c648Color13 {background: #8e3c97;color: #fff;}
 td.c648Color14 {background: #75cec8;color: #000;}
 td.c648Color15 {background: #ffffff;color: #000;}
@@ -203,7 +203,7 @@ td.c6416Color2 {background: #813338;color: #fff;}
 td.c6416Color3 {background: #75cec8;color: #000;}
 td.c6416Color4 {background: #8e3c97;color: #fff;}
 td.c6416Color5 {background: #56ac4d;color: #fff;}
-td.c6416Color6 {background: #2e2c9b;color: #fff;}
+td.c6416Color6 {background: #706deb;color: #fff;}
 td.c6416Color7 {background: #edf171;color: #000;}
 td.c6416Color8 {background: #8e5029;color: #fff;}
 td.c6416Color9 {background: #553800;color: #fff;}
@@ -353,26 +353,6 @@ td.minecraftColor12 {background: #ff5555;color: #fff;}
 td.minecraftColor13 {background: #ff55ff;color: #000;}
 td.minecraftColor14 {background: #ffff55;color: #000;}
 td.minecraftColor15 {background: #ffffff;color: #000;}
-
-/* custom colors */
-td.customBackground {background: #000000;color: #fff;}
-td.customForeground {background: #a8a8a8;color: #000;}
-td.customColor0 {background: #000000;color: #fff;}
-td.customColor1 {background: #a80000;color: #fff;}
-td.customColor2 {background: #00a800;color: #fff;}
-td.customColor3 {background: #a85400;color: #fff;}
-td.customColor4 {background: #0000a8;color: #fff;}
-td.customColor5 {background: #a800a8;color: #fff;}
-td.customColor6 {background: #00a8a8;color: #fff;}
-td.customColor7 {background: #a8a8a8;color: #000;}
-td.customColor8 {background: #545454;color: #fff;}
-td.customColor9 {background: #fc5454;color: #fff;}
-td.customColor10 {background: #54fc54;color: #000;}
-td.customColor11 {background: #fcfc54;color: #000;}
-td.customColor12 {background: #5454fc;color: #fff;}
-td.customColor13 {background: #fc54fc;color: #fff;}
-td.customColor14 {background: #54fcfc;color: #000;}
-td.customColor15 {background: #fcfcfc;color: #000;}
 
 /* Monochrome (black on white) */
 td.monowhiteBackground {background: #ffffff;color: #000;}
@@ -588,6 +568,26 @@ td.solarLightColor12 {background: #657b83;color: #fff;}
 td.solarLightColor13 {background: #6c71c4;color: #fff;}
 td.solarLightColor14 {background: #586e75;color: #000;}
 td.solarLightColor15 {background: #002b36;color: #fff;}
+
+/* Pepsi colors */
+td.pepsiBackground {background: #0e0e96;color: #fff;}
+td.pepsiForeground {background: #ffffff;color: #000;}
+td.pepsiColor0 {background: #000000;color: #fff;}
+td.pepsiColor1 {background: #ff1400;color: #fff;}
+td.pepsiColor2 {background: #ffffff;color: #000;}
+td.pepsiColor3 {background: #ff1400;color: #fff;}
+td.pepsiColor4 {background: #5a5aff;color: #fff;}
+td.pepsiColor5 {background: #ff1400;color: #fff;}
+td.pepsiColor6 {background: #5a5aff;color: #fff;}
+td.pepsiColor7 {background: #ffffff;color: #000;}
+td.pepsiColor8 {background: #5a5aff;color: #fff;}
+td.pepsiColor9 {background: #ff1400;color: #fff;}
+td.pepsiColor10 {background: #ffffff;color: #000;}
+td.pepsiColor11 {background: #ff1400;color: #fff;}
+td.pepsiColor12 {background: #5a5aff;color: #fff;}
+td.pepsiColor13 {background: #ff1400;color: #fff;}
+td.pepsiColor14 {background: #5a5aff;color: #fff;}
+td.pepsiColor15 {background: #ffffff;color: #000;}
 
 /* CMYK*/
 td.cmykBackground {background: #000000;color: #fff;}
